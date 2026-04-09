@@ -1,0 +1,19 @@
+[00:00:12] Rep (Michael): Hi Priya, thanks for joining. I know this came a bit out of left field. A mutual friend, James from TechVentures, mentioned you're ramping up your security operations. Is that something you're working on?
+[00:00:25] Client (Priya): We are, actually. We're a Series B SaaS company moving into enterprise sales, and our customers are starting to ask about our compliance certifications. Right now, we have basically nothing to show them.
+[00:00:38] Rep (Michael): That's a common pain point at your stage. I'm guessing you've looked at security solutions before?
+[00:00:44] Client (Priya): Yeah, we evaluated CloudSec about eight months ago, but it felt like enterprise overkill. We're only about 80 people, so we thought we'd wait until we grew bigger.
+[00:00:55] Rep (Michael): Here's the thing—companies often overshoot because they only look at the Starter tier and assume they're locked into a high price. But you can actually start lean and upgrade as you grow. With your headcount, the Starter tier at $45k annually covers what you need—basic logging and compliance baselines.
+[00:01:12] Client (Priya): So it's actually cheaper than I thought. But what does deployment look like? We're moving pretty fast and can't afford a two-month implementation.
+[00:01:20] Rep (Michael): Starter tier deployment is one week. You'd have automated compliance dashboards ready to show your enterprise prospects almost immediately.
+[00:01:30] Client (Priya): One week is perfect. But here's my real question—what's the process for upgrading? I don't want to get locked into a contract and then hit constraints in six months.
+[00:01:42] Rep (Michael): All our contracts include upgrade paths. So if you sign for Starter and hit 750 endpoints in six months, you can upgrade to Professional mid-contract. The delta in pricing prorates.
+[00:01:55] Client (Priya): Okay, that's good to know. Can you send me a one-pager on the Starter tier and the upgrade mechanics? I want to run it by our CFO before we talk again.
+[00:02:05] Rep (Michael): Absolutely. I'll also include a customer case study from another Series B company that went through the same decision. They're now an Enterprise customer. 
+[00:02:15] Client (Priya): Perfect. Honestly, if the implementation is really one week and the pricing is $45k, I think we can move forward. Can you send an MSA today?
+[00:02:25] Rep (Michael): I can. But before I do, let me ask—is there anything else your CFO will push back on? Budget approval, vendor security questionnaire, anything I should anticipate?
+[00:02:38] Client (Priya): She'll want references. Two customer calls with companies at similar scale. If you can arrange that, I think we're done.
+[00:02:48] Rep (Michael): I can have the references lined up by tomorrow. I'll send a Calendly link so you can book directly with them. And I'll send the MSA to your legal@[company].com—where should I send it?
+[00:02:58] Client (Priya): It's legal@innovatehq.com. Send to me and copy our CFO—her name is Amanda. I'll make sure she gets it before the references callout.
+[00:03:08] Rep (Michael): Perfect. I'm sending everything today. One last thing—when are you looking to get this live?
+[00:03:15] Client (Priya): Our first enterprise demo is in four weeks. If you guys can deploy in one week like you said, we'd show them the compliance dashboard two weeks later. That timeline works for us.
+[00:03:25] Rep (Michael): We'll make that happen. Expect the MSA, reference contacts, and one-pager in the next hour.

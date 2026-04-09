@@ -1,0 +1,23 @@
+[00:00:14] Rep (Lauren): Hi James, thanks for jumping on. I'll come right to it—we work with B2B SaaS companies who are about to raise funding and need to show their investors they have enterprise-grade security. Does that describe you?
+[00:00:28] Client (James): We're in the middle of a Series C pitch. And yeah, security posture is definitely on investor checklists. How did you know about our timeline?
+[00:00:36] Rep (Lauren): I check who's raising. You guys hit the news two weeks ago with your seed extension. Congrats. But here's the reality: investors are going to ask "what certifications do you have?" If you don't have any, they'll assume you're a security risk.
+[00:00:52] Client (James): We don't have SOC2 yet. We've got roughly 300 employees, and security is handled mostly in-house. Can you get us SOC2 in time for fundraising?
+[00:01:05] Rep (Lauren): Depends on your timeline. When does your Series C pitch close?
+[00:01:10] Client (James): Ideally in the next 8-10 weeks.
+[00:01:15] Rep (Lauren): That's tight but doable. SOC2 Type II is our Professional tier. Deployment takes three weeks, then 6 months of audit observation. So we need to start immediately.
+[00:01:28] Client (James): Wait, six months? We don't have six months.
+[00:01:32] Rep (Lauren): Right, so here's the play: you can get SOC2 Type I in 3-4 weeks. It's not as rigorous as Type II, but it shows investors you're serious about security and have controls in place. Once you close your funding round, you move to Type II observation.
+[00:01:48] Client (James): So I show Type I to investors. That's good enough?
+[00:01:52] Rep (Lauren): For a Series C? Yeah. Smart investors know you're on the path to Type II. If you have Type I in place, it demonstrates commitment. Type II is the refinement after you've closed.
+[00:02:05] Client (James): Okay, that makes sense. But I have a challenge: our endpoint inventory is all over the place. We've got laptops, mobile devices, cloud infrastructure spread across multiple AWS accounts. Do I need to get everything settled before you start?
+[00:02:22] Rep (Lauren): Good question. No, but you need to get a first pass inventory done. How many total endpoints are we talking?
+[00:02:30] Client (James): Rough estimate? 1,000 to 1,200 laptops. Plus maybe 500 cloud instances across different accounts. So somewhere in that 1,500 to 1,700 range?
+[00:02:42] Rep (Lauren): Our Professional tier covers up to 2,000, so you're well within range. Here's what happens: we start the deployment immediately. Your team and our team work together to get complete visibility. Within three weeks, you have SOC2 Type I. The cost is $85,000 annually.
+[00:02:58] Client (James): That's a big commitment for not knowing if we'll close the Series C. What's the cancellation term?
+[00:03:08] Rep (Lauren): Standard is three months' notice to cancel. But here's what I can do: I'll add a clause that says if your funding round doesn't close by end of August, you can cancel with 30 days' notice at no penalty.
+[00:03:22] Client (James): Seriously? You'd add that?
+[00:03:25] Rep (Lauren): I would. I believe you're going to close, and once you do, you won't want to leave your security platform mid-observation. You'll just upgrade to Type II. The clause is just insurance for you.
+[00:03:38] Client (James): That's fair. Okay, let's do this. What's the next step?
+[00:03:43] Rep (Lauren): I'll have our Deployment Lead call you tomorrow to do a technical onboarding. I'll send the MSA with the funding clause amendment today. Your CFO or legal can review it. I need a signed MSA and your initial endpoint inventory within 48 hours so we can start the deployment clock.
+[00:04:00] Client (James): Send it to james@fundtech.io and copy our COO. I'll get the endpoint inventory for you. This is great timing.
+[00:04:08] Rep (Lauren): Perfect. You're going to nail your Series C pitch with proper security posture backing you up. Let's make it happen.

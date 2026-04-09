@@ -1,0 +1,18 @@
+[00:00:15] Rep (Marcus): Alright, looks like everyone is here. David, Sarah, thanks for making the time. How is the weather in Chicago?
+[00:00:22] Client (David): Cold and miserable, Marcus. But we're surviving. Let's dive in, I have a hard stop at the bottom of the hour. 
+[00:00:28] Rep (Marcus): Understood. To recap our email thread, you're looking at overhauling your internal security posture ahead of your Series C funding round. Where are the current pain points?
+[00:00:40] Client (Sarah): I'll take this. I manage the DevOps team. Right now, our compliance reporting is entirely manual. If an auditor asked for our access logs today, it would take my team three days to compile them. It's draining our resources. We need automated SOC2 reporting, yesterday.
+[00:00:58] Rep (Marcus): That is exactly what our CloudSec Platform is built for. With the Professional tier, you get automated compliance reporting out of the box. How many endpoints are we talking about?
+[00:01:05] Client (David): We have about 1,200 employees, so roughly that many laptops, plus our server infrastructure. Call it 1,500 endpoints.
+[00:01:15] Rep (Marcus): Got it. So the Professional tier covers up to 2,000 endpoints, which gives you room to grow. 
+[00:01:22] Client (Sarah): What does deployment look like? We tried a competitor last year and it took two months just to get the agents installed.
+[00:01:28] Rep (Marcus): For the Professional tier, standard deployment is about three weeks from the moment we sign the contract to full visibility. 
+[00:01:35] Client (David): Three weeks is manageable. Let's talk numbers. What is the damage?
+[00:01:40] Rep (Marcus): The Professional tier is an $85,000 annual contract.
+[00:01:45] Client (David): Look, $85k is steep. I have $100k left in my Q2 IT budget, but I was hoping to use some of that for new monitoring tools. I need to take this back to the board for final sign-off, but if we can get this deployed by end of May, I can probably justify the $85k. 
+[00:01:58] Rep (Marcus): We can definitely hit a late May target. 
+[00:02:02] Client (Sarah): Before David signs anything, my team needs to see a technical deep-dive. I need to know exactly how your agent impacts CPU performance on our developer machines. 
+[00:02:10] Rep (Marcus): Absolutely fair. I'll have our Sales Engineer, Alex, put together a technical architecture deck. How about we schedule a 45-minute technical demo for next Wednesday?
+[00:02:20] Client (Sarah): Wednesday at 2 PM EST works for me. 
+[00:02:25] Rep (Marcus): Perfect. I will send the calendar invite for the tech demo today. I'll also send over the draft MSA (Master Services Agreement) so your legal team can start reviewing the terms. 
+[00:02:35] Client (David): Sounds good. Send the MSA to legal@fintechcorp.com and copy me. Thanks, Marcus.

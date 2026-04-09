@@ -1,0 +1,17 @@
+[00:00:08] Rep (David): Thanks for taking this call, Richard. I know you're stretched thin during your fiscal year close. I'll keep this brief. Have you had a chance to look at the materials we sent?
+[00:00:20] Client (Richard): Honestly, not thoroughly. We're in the middle of our internal audit. Operations is drowning. Can you give me the elevator pitch?
+[00:00:28] Rep (David): Sure. You're currently manually compiling compliance reports for your auditors. CloudSec automates that process. The time your team spends gathering logs reduces from days to minutes. Most of our customers save 200+ hours per year.
+[00:00:42] Client (Richard): That sounds great in theory, but implementations usually fail. We brought in a new vendor last year and it was a nightmare. I'm skeptical of "automated" solutions.
+[00:00:55] Rep (David): I get that. Most failures happen because the vendor oversells or doesn't have proper onboarding. We're different. I'll be honest—if you're not aligned on your requirements upfront, CloudSec won't solve your problem. So let me ask: what specific compliance frameworks are your auditors asking for?
+[00:01:12] Client (Richard): SOC2 Type II is the main one. We've been doing it manually for two years. It's expensive and we make mistakes every audit cycle.
+[00:01:22] Rep (David): SOC2 Type II is perfect for our Professional tier. One question though—do you have a dedicated compliance person, or is this falling on your ops team alongside other duties?
+[00:01:35] Client (Richard): It's falling on the ops team. We don't have a dedicated person. That's part of the problem—it's deprioritized until auditors show up.
+[00:01:48] Rep (David): Okay, so here's what I'd suggest: don't buy from us or anyone yet. First, hire or dedicate someone part-time to own compliance. A fractional compliance officer is 20-30 hours per month. That's your foundation. CloudSec is then a force multiplier—they do the heavy lifting, your compliance person reviews and signs off.
+[00:02:10] Client (Richard): That's the most honest thing I've heard. Most vendors would've already sent a contract.
+[00:02:18] Rep (David): Yeah, but you'd fail. I'd rather be direct. Where do you sit on that—do you have budget or headcount to own compliance?
+[00:02:28] Client (Richard): Maybe after Q3. Right now, absolutely not.
+[00:02:35] Rep (David): Then let's circle back in Q3. In the meantime, I'll send you a checklist of what manual compliance work looks like—that way when you hire or dedicate someone, they can use it as a playbook. Does that help?
+[00:02:48] Client (Richard): Yeah, actually it does. I appreciate you not pushing. Most vendors would've been pushy.
+[00:02:55] Rep (David): No point. You'll make a better buying decision when you're ready. But here's what I ask—when you do get dedicated compliance resources, we should talk again. Can I check back in early Q3?
+[00:03:08] Client (Richard): Absolutely. I'll have more visibility by then. Send me that checklist and I'll add you to my Q3 review list.
+[00:03:15] Rep (David): Done. I'm sending it now. And Richard—good luck with the audit. You'll get through it.

@@ -1,0 +1,19 @@
+[00:00:10] Rep (Jessica): Hi Thomas, thanks for making time. I know you're busy. I pulled your company's tech stack from your careers page—looks like you're doing a lot of data pipeline work with AWS. Is that accurate?
+[00:00:22] Client (Thomas): Yeah, we're heavily invested in AWS. We've got about 15 data engineers managing ETL workflows across Redshift and S3. Why do you ask?
+[00:00:30] Rep (Jessica): The reason I called is that we're seeing companies your size spend significant money on custom-built replication solutions. I wanted to explore if DataSync Pro might be a better fit. Have you had challenges with data latency or replication costs?
+[00:00:45] Client (Thomas): Actually, we just had a painful incident last month. Our Snowflake environment got out of sync with our source systems for six hours. No one caught it until a downstream analytics query failed. It cost us a board meeting.
+[00:01:00] Rep (Jessica): That's exactly the problem DataSync Pro was designed to solve. We handle continuous replication with sub-minute latency guarantees. Can you tell me roughly how much data you're processing monthly?
+[00:01:10] Client (Thomas): Ballpark? We're probably moving 500 TB to 600 TB per month across all our environments.
+[00:01:18] Rep (Jessica): Okay, so with our consumption model at $0.05 per GB, you'd be looking at around $25,000 to $30,000 monthly, which qualifies for our volume discount. But you'd lock in a $20,000 annual minimum.
+[00:01:32] Client (Thomas): Hold on. We're currently spending about $15,000 a month on our custom solution plus two engineers' time. If we move to DataSync and it's $25k to $30k, that's actually more expensive.
+[00:01:45] Rep (Jessica): Not if you count the engineering time. You'd free up those two engineers—that's roughly $250k to $300k in annual salary. Plus you eliminate the sync errors and the operational overhead of maintaining custom code.
+[00:02:00] Client (Thomas): I hear you, but our engineers built that solution. They know it inside and out. Moving to a third-party tool means we're dependent on you. What if you go down?
+[00:02:12] Rep (Jessica): Fair point. We have a 99.99% uptime SLA with automatic failover to a secondary region. Your engineers can focus on higher-value analytics projects instead of firefighting replication issues. How many of those high-value projects are currently deprioritized because of pipeline maintenance?
+[00:02:30] Client (Thomas): Honestly? Three major analytics initiatives are stuck waiting for pipeline stability. But I'd need to see a technical proof of concept before I can justify migration.
+[00:02:42] Rep (Jessica): Absolutely. I can have our Sales Engineer spin up a test environment with a sample of your S3 data. How quickly can you provide us with anonymized sample data?
+[00:02:55] Client (Thomas): We could have something ready by end of week. But I want daily visibility into the PoC performance metrics.
+[00:03:05] Rep (Jessica): Perfect. I'll send you a secure sandbox link and a dashboard that updates hourly. We'll schedule a review call for next Friday at 3 PM PT. Does that work?
+[00:03:15] Client (Thomas): Works for me. Send the details to thomas@mediacorp.io and copy my engineering lead, David. He'll be the one setting up the test data.
+[00:03:25] Rep (Jessica): Done. One more thing—during the PoC, if we can prove we reduce your sync errors to zero and free up your engineers, would budget be the only remaining hurdle?
+[00:03:35] Client (Thomas): Probably. But I'd need CFO approval since it's a new vendor and recurring spend. That said, if the PoC is clean, I can make it happen in Q2.
+[00:03:42] Rep (Jessica): Great. I'll make sure this PoC is airtight. Looking forward to Friday.
